@@ -1,7 +1,5 @@
 ---
 layout: layout.liquid
-title: About
+title: Planets
 ---
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
